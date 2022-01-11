@@ -39,4 +39,4 @@ Please reference the original authors as follows:
 Other hunalign dictionaries:
 
 * [hunapertium](https://github.com/aoliverg/hunapertium) - Hunalign dictionaries generated from Google's [Apertium](https://wiki.apertium.org/wiki/Main_Page) (GPL 3.0)
-* [LF Aligner](https://sourceforge.net/projects/aligner/) - LF Aligner generates dictionaries from 32 EU languages via hunalign
+* [LF Aligner](https://sourceforge.net/projects/aligner/) - LF Aligner generates dictionaries from 32 EU languages via hunalign itself 
